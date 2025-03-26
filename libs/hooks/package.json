@@ -1,0 +1,12 @@
+{
+  "name": "@cutiekit/hooks",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "framer-motion": "^10.0.0",
+    "canvas-confetti": "^1.6.0"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.6.0"
+  }
+} 
